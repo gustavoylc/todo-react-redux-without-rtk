@@ -1,0 +1,13 @@
+/* export const ADD_TODO = "ADD_TODO";
+export const EDIT_TODO = "EDIT_TODO";
+export const REMOVE_TODO = "REMOVE_TODO";
+export const INITIALS_TODOS = "INITIALS_TODOS"; */
+
+export const actionTypes = {
+	ADD_TODO: "ADD_TODO",
+	EDIT_TODO: "EDIT_TODO",
+	REMOVE_TODO: "REMOVE_TODO",
+	INITIALS_TODOS: "INITIALS_TODOS",
+	SET_LOADING: "SET_LOADING",
+	GET_SEARCH: "GET_SEARCH",
+};
