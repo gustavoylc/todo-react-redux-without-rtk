@@ -1,11 +1,9 @@
+import { Home } from "@pages/Home";
 
 function App() {
-
-  return (
-    <div>
-      hola
-    </div>
-  )
+	return (
+    <Home />		
+	);
 }
 
-export default App
+export {App;
